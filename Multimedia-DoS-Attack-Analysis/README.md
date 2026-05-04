@@ -1,6 +1,6 @@
 # Análisis de Incidente: Ataque DoS por Inundación ICMP 🛡️
 
-Este proyecto es una aplicación práctica realizada como parte del **Certificado Profesional de Ciberseguridad de Google**. El objetivo es demostrar la capacidad de un analista para gestionar un incidente de seguridad real utilizando el marco de trabajo **NIST Cybersecurity Framework (CSF)**[cite: 3, 4].
+Este proyecto es una aplicación práctica realizada como parte del **Certificado Profesional de Ciberseguridad de Google**. El objetivo es demostrar la capacidad de un analista para gestionar un incidente de seguridad real utilizando el marco de trabajo **NIST Cybersecurity Framework (CSF)**.
 
 ## 📝 Escenario del Incidente
 Una empresa multimedia que ofrece servicios de diseño y marketing sufrió un ataque de Denegación de Servicio (**DoS**) que inhabilitó su red interna durante dos horas. 
