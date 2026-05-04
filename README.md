@@ -13,6 +13,13 @@
     *   Verificación de cumplimiento con **PCI DSS** (pagos) y **GDPR** (privacidad UE).
     *   Análisis de controles **administrativos, técnicos y físicos**.
 *   **Resultado:** Identificación de una puntuación de riesgo de 8/10 y desarrollo de un plan para implementar encriptación, planes de recuperación ante desastres y control de accesos.
+### 📁 Análisis de Incidente: Multimedia Co.
+* **Escenario**: Respuesta y mitigación de un ataque DoS (ICMP Flood) en una empresa de servicios multimedia.
+* **Habilidades clave**: 
+    * Implementación de controles técnicos en Firewall e IDS/IPS.
+    * Gestión de incidentes bajo el marco **NIST CSF**.
+    * Análisis de protocolos de red y detección de anomalías.
+* **Resultado**: Reducción de la superficie de ataque y establecimiento de un plan de recuperación ante desastres.
 
 ---
 
