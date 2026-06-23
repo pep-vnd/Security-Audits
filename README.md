@@ -20,7 +20,13 @@
     * Gestión de incidentes bajo el marco **NIST CSF**.
     * Análisis de protocolos de red y detección de anomalías.
 * **Resultado**: Reducción de la superficie de ataque y establecimiento de un plan de recuperación ante desastres.
-
+### 📂 [Diario de Gestor de Incidentes: Ataque Ransomware](./Healthcare-Ransomware-Journal/README.md)
+* **Escenario:** Documentación y triaje inicial de un ataque de ransomware desencadenado por phishing que paralizó las operaciones de una clínica de atención primaria.
+* **Habilidades clave:** 
+    * Respuesta a incidentes y documentación técnica estructurada (metodología de las 5 W).
+    * Identificación de vectores de ataque (Phishing e Ingeniería Social).
+    * Evaluación de impacto empresarial y análisis de medidas de contención.
+* **Resultado:** Registro técnico del incidente diseñado para facilitar la investigación forense, mitigar la amenaza y planificar la recuperación de registros médicos críticos.
 ---
 
 ## 🛠️ Metodologías Aplicadas
